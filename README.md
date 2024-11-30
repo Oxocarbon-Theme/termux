@@ -5,7 +5,7 @@ Oxocarbon port for Termux
 This is a port of the [Oxocarbon](https://github.com/nyoom-engineering/oxocarbon) colorscheme made by [Nyoom Engineering](https://github.com/nyoom-engineering) to [Termux](https://termux.dev/), the ports were made by [Wahidislam](https://github.com/psynyde) and [xStormy](https://github.com/xStormyy).
 
 ## How to use
-Copy the file of the theme you want into [~/.termux/colors.properties](https://wiki.termux.com/wiki/Termux:Styling).
+Copy the file of the theme you want into [~/.termux](https://wiki.termux.com/wiki/Termux:Styling) and rename the file to ``colors.properties``.
 
 ## Credits
 Thanks to [Shaunsingh](https://github.com/shaunsingh) for the original theme implementation in Neovim as well as base16.
