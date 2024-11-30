@@ -1,3 +1,4 @@
+![A preview of the oxocarbon theme displaying neofetch](assets/neofetch.jpg)
 # termux
 Oxocarbon port for Termux
 
